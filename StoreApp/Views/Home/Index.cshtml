@@ -1,0 +1,29 @@
+﻿@model IQueryable<Domain.Models.Product>
+
+@foreach (var p in Model)
+{
+    <div class="card card-outline-primary m-1 p-1">
+        <div class="bg-faded p-1">
+            <h4>
+                @p.Name
+                <span class="badge badge-pill badge-primary" style="float:right">
+                    <small>@p.Price.ToString("c")</small>
+                </span>
+            </h4>
+        </div>
+        <div class="card-text p-1">@p.Description</div>
+
+        <form id="@p.ProductID" asp-page="/Cart" method="post">
+            <input type="hidden" name="productId" value="@p.ProductID" asp-for="@p.ProductID" />
+            <input type="hidden" name="returnUrl"
+               value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+            <span class="card-text p-1">
+                @p.Description
+                <button type="submit"
+                    class="btn btn-success btn-sm pull-right" style="float:right">
+                    Add To Cart
+                </button>
+            </span>
+        </form>
+    </div>
+}

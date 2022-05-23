@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="bg-dark text-white p-2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col navbar-brand">STORE</div>
+                <div class="col">
+                    <a href="/Cart">Cart</a>
+                </div>
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <div class="col">
+                    <a href="/admin">dashboard | hello @User.Identity.Name</a>
+                    </div>
+                } else
+                {
+                    <div class="col">
+                    <a href="/identity/account/login">login</a>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            Put something useful here later
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+
+    <script src="~/js/bootstrap.min.js"></script>
+    @RenderSection("Scripts", false)
+</body>
+</html>

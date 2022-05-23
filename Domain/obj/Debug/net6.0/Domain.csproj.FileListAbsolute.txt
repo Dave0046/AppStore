@@ -1,0 +1,36 @@
+C:\Users\nouri\source\repos\StoreApp\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\nouri\source\repos\StoreApp\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\nouri\source\repos\StoreApp\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\nouri\source\repos\StoreApp\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\veniz\Downloads\StoreApp\StoreApp\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Davoud\Saved Games\Desktop\StoreApp-main\StoreApp-main\StoreApp\StoreApp\StoreApp\Domain\obj\Debug\net6.0\ref\Domain.dll

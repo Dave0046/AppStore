@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="bg-dark text-white p-2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col navbar-brand">STORE</div>
+                <div class="col">
+                    <a href="/admin/user">Users</a>
+                </div>
+                <div class="col">
+                    <a href="/admin/products">Products</a>
+                </div>
+                <div class="col">
+                    <a href="/identity/account/logout">log out</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row m-1 p-1">
+        @RenderBody()
+    </div>
+
+    <script src="~/js/bootstrap.min.js"></script>
+
+    @RenderSection("Scripts", false)
+</body>
+</html>
